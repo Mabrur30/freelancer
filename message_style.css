@@ -1,0 +1,19 @@
+.message-bubble {
+  display: inline-block;
+  padding: 8px 12px;
+  border-radius: 12px;
+  max-width: 70%;
+  margin-bottom: 4px;
+}
+
+.sent {
+  background-color: #d1e7dd;
+  color: #0f5132;
+  text-align: left;
+}
+
+.received {
+  background-color: #f8d7da;
+  color: #842029;
+  text-align: left;
+}
